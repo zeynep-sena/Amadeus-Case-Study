@@ -1,1 +1,1 @@
-# Amadeus-Case-Study
+# Amadeus Case Study
